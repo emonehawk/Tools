@@ -14,7 +14,7 @@ This project is a tool designed to generate compelling subject lines for marketi
 
 To install this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/marketing-mail-subject-generator.git`
+1. Clone the repository: `git clone [https://github.com/yourusername/marketing-mail-subject-generator.git](https://github.com/emonehawk/tools/tree/main/marketing-mail-subject-generator)`
 2. Navigate to the project directory: `cd marketing-mail-subject-generator`
 3. Install PHP if not already installed. You can check this by running `php -v` in your terminal. If PHP is not installed, you can install it by following the instructions [here](https://www.php.net/manual/en/install.php).
 4. Install Composer if not already installed. You can check this by running `composer --version` in your terminal. If Composer is not installed, you can install it by following the instructions [here](https://getcomposer.org/download/).
