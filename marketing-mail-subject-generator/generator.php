@@ -27,6 +27,7 @@ function generateTargetAudienceSuggestion(string $emailBody, string $keywords, s
             'content' => 'Think step-by-step brainstorm, debate pros and cons of different target audience'.
             'and Generate three concise, engaging target audience suggestions for this email.'.
             'The target audience should be relevant to the email content and keywords.'.
+            'do not explain the suggestions, just list them in order of relevance.'.
             'Please format your response as follows: "1. First suggestion 2. Second suggestion 3. Third suggestion"'
         ]
     ];
