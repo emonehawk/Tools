@@ -1,1 +1,11 @@
+# Site settings
+title: My GitHub Pages Site
+description: A simple site using GitHub Pages
+url: https://emonehawk.github.io/tools/
+
+# Theme settings
 theme: minima
+
+# Other optional settings
+markdown: kramdown
+permalink: pretty
